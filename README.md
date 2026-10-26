@@ -18,8 +18,7 @@ Hospital readmissions can increase healthcare costs and place additional pressur
 
 ## Tools and Technologies
 
-- Python
-- Pandas and NumPy
+- Python (Pandas)
 - SQL, where applicable
 - Power BI
 - Jupyter Notebook
