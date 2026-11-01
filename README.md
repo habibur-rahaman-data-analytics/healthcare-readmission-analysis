@@ -202,36 +202,7 @@ Translate the validated findings into practical questions and review priorities 
 
 The dashboard is designed to provide an overview of readmission patterns and allow users to explore encounter groups.
 
-### Executive Overview
-- Total Encounters
-- 30-Day Readmission Encounters
-- 30-Day Readmission Rate
-- Any-Readmission Rate
-- Average Length of Stay
-
-### Readmission Analysis
-- Readmission outcome distribution
-- 30-day readmission rate by age group
-- 30-day readmission rate by prior inpatient visits
-- Readmission rate by discharge disposition
-
-### Encounter & Utilization Analysis
-- Prior inpatient, emergency, and outpatient utilization
-- Length of stay
-- Diabetes medication indicators
-- Available A1C and glucose result categories
-
-### Suggested Filters
-- Age
-- Gender
-- Race
-- Admission type
-- Discharge disposition
-- Prior inpatient visits
-- Diabetes medication indicator
-- Readmission outcome
-
-> The dashboard should use encounter-level denominators for encounter rates. Patient-level analyses require an explicit patient-level method.
+![Healthcare Readmission Dashboard](healthcare-readmission-analysis/images/dashboard-screenshot.jpg)
 
 ---
 
