@@ -202,7 +202,7 @@ Translate the validated findings into practical questions and review priorities 
 
 The dashboard is designed to provide an overview of readmission patterns and allow users to explore encounter groups.
 
-![Healthcare Readmission Dashboard](healthcare-readmission-analysis/images/dashboard-screenshot.jpg)
+![Healthcare Readmission Dashboard](images/dashboard-screenshot.jpg)
 
 ---
 
